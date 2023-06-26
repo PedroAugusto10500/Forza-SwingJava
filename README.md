@@ -8,9 +8,9 @@ Palavra-chave: Desenvolvimento, sistema, gastos, veículos.
 
 ## Layout
 
- ![Tela inicial](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/menu.png)
+ ![Tela inicial](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/menu.png)
  
- ![Tela inicial](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/FotoMenu.png)
+ ![Tela inicial](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/FotoMenu.png)
 
  ![Cadastro de Proprietario](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaCadastroP.png)
 
