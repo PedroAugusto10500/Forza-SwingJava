@@ -12,23 +12,23 @@ Palavra-chave: Desenvolvimento, sistema, gastos, veículos.
  
  ![Tela inicial](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/FotoMenu.png)
 
- ![Cadastro de Proprietario](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaCadastroP.png)
+ ![Cadastro de Proprietario](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaCadastroP.png)
 
- ![Cadastro Marca](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaCadadastroMarca.png)
+ ![Cadastro Marca](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaCadadastroMarca.png)
 
- ![Cadastro Modelo](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaCadastroModelo.png)
+ ![Cadastro Modelo](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaCadastroModelo.png)
 
- ![Cadastro Veiculo](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/cadastroVeiculo.png)
+ ![Cadastro Veiculo](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/cadastroVeiculo.png)
 
- ![Gastos Geral](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaGastoGeral.png)
+ ![Gastos Geral](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaGastoGeral.png)
 
- ![Pesquisar Gasto Mensal](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaGastoMensal.png)
+ ![Pesquisar Gasto Mensal](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaGastoMensal.png)
 
- ![Pesquisar Gasto Anual](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/telaGastoAnual.png)
+ ![Pesquisar Gasto Anual](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/telaGastoAnual.png)
 
  
 ## Back-End Folder
-![Back-end](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/main/BackEnd.png)
+![Back-end](https://github.com/PedroAugusto10500/Forza-SwingJava/blob/master/src/icones/BackEnd.png)
 
 
 
